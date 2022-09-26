@@ -124,4 +124,3 @@ if __name__ == '__main__':
 
     if log_file is not None:
         log_file.close()
-

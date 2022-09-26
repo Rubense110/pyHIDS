@@ -17,7 +17,7 @@ def search_files(motif, root_path):
     aren't symbolic links.
     """
     result = []
-    #Realiza una 
+    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
     w = os.walk(root_path)
     for (path, dirs, files) in w:
         for f in files:
@@ -86,6 +86,3 @@ if __name__ == '__main__':
         pickle.dump(database,f)
     
     print(number_of_files_to_scan, "files in the database.")
-
-    with open(conf.BASE_PATH,"rb") as f:
-        re_base = pickle.load(f)
