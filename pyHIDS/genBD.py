@@ -1,7 +1,10 @@
+from importlib.metadata import files
 import pickle
 import os
 import re
 import hashlib
+import random
+import time
 
 import conf
 
@@ -19,6 +22,7 @@ def search_files(motif, root_path):
     result = []
     #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
     w = os.walk(root_path)
+    import re
     for (path, dirs, files) in w:
         for f in files:
             if re.compile(motif).search(f):
@@ -58,16 +62,16 @@ def hash_file(target_file):
 
     return hashed_data
 
-    
 
 
 
 if __name__ == '__main__':
     database = {}
+    older_database = {}
+    new_files = []
     list_of_files = conf.SPECIFIC_FILES_TO_SCAN
 
     for rules in conf.FOLDER_FILES:
-        
         #Añadimos a la lista de ficheros todos los que se encuentren en el folder (rule[1])
         # y que cumplan con la extensión/patrón (rule[0])
         list_of_files.extend(search_files(rules[0], rules[1]))
@@ -79,6 +83,15 @@ if __name__ == '__main__':
         hashed_file = hash_file(file)
         if hashed_file is not None:
             database[file] = hashed_file
+
+    #Comprobación Shake-Hand Proof
+
+    # if os.path.exists(conf.BASE_PATH):
+    #     with open(conf.BASE_PATH,"rb") as r:
+    #         older_database = pickle.load(r)
+    #     for file in list(database.keys()):
+    #         if file not in list(older_database.keys()):
+    #             new_files.append(file)
 
     #Serializamos el database
 

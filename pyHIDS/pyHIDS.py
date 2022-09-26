@@ -42,6 +42,7 @@ def compare_hash(target_file, expected_hash):
     """
     sha256_hash = hashlib.sha256()
     opened_file = None
+    comp = True
 
     # cada log contiene la fecha y hora de la incidencia
     local_time = time.strftime("[%d/%m/%y %H:%M:%S]", time.localtime())
@@ -74,17 +75,21 @@ def compare_hash(target_file, expected_hash):
             log(local_time + " [notice] "  + target_file + " ok")
         else:
             # ha sido modificado, warning
-
             # reportamos la alerta en el log file
             globals()['warning'] = globals()['warning'] + 1
             message = local_time + " [warning] " + target_file + " ha sido modificado."
-
             # pyHIDS log, escribimos en el fichero y mostramos por pantalla la incidencia
             log(message, True)
+
+            return False
+    
+    return comp
+            
 
 
 
 if __name__ == '__main__':
+    files_modified = []
     local_time = time.strftime("[%d/%m/%y %H:%M:%S]", time.localtime())
     #Abrimos el fichero de log
     log_file = None
@@ -93,6 +98,7 @@ if __name__ == '__main__':
     except Exception as e:
         print("Algo no esta funcionando como debería al abrir el log: " + str(e))
         exit(0)
+    
     log(time.strftime("[%d/%m/%y %H:%M:%S] HIDS starting.", \
                            time.localtime()))
 
@@ -109,12 +115,13 @@ if __name__ == '__main__':
 
     for file in list(base.keys()):
         if os.path.exists(file):
-            compare_hash(file, base[file])
+            t = compare_hash(file, base[file])
+            if not t:
+                files_modified.append(file)
         else:
             error = error + 1
             log(local_time + " [error] " + \
                    file + " no existe, o no tienes el suficiente privilegio para leerlo.")
-
 
     #Finalizamos 
     
@@ -124,3 +131,6 @@ if __name__ == '__main__':
 
     if log_file is not None:
         log_file.close()
+    
+    with open(conf.MOD_PATH,"wb") as f:
+        pickle.dump(files_modified,f)
