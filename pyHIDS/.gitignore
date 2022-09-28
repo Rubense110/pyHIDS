@@ -1,6 +1,2 @@
-#Ignorar cache de python
-__pycache__/
-
-#Ignorar .vscode
-
-.vscode/
+__pycache__
+.vscode
