@@ -1,14 +1,10 @@
 from importlib.metadata import files
 import pickle
 import os
-import re
 import hashlib
-import random
-import time
+
 
 import conf
-
-
 
 
 
@@ -41,13 +37,12 @@ def hash_file(target_file):
     hashed_data = None
     data = None
 
-    # Handle the errors that may happen
+    # Posibles errores al abrir el log
     try:
         opened_file = open(target_file, "rb")
         data = opened_file.read()
     except Exception as e:
-        # The specified file does not exist,
-        # remove from the list.
+        # Si el file no existe, lo eliminamos de la lista a analizar
         print(target_file, ":", e)
         globals()['number_of_files_to_scan'] = \
             globals()['number_of_files_to_scan'] - 1
@@ -83,15 +78,6 @@ if __name__ == '__main__':
         hashed_file = hash_file(file)
         if hashed_file is not None:
             database[file] = hashed_file
-
-    #Comprobación Shake-Hand Proof
-
-    # if os.path.exists(conf.BASE_PATH):
-    #     with open(conf.BASE_PATH,"rb") as r:
-    #         older_database = pickle.load(r)
-    #     for file in list(database.keys()):
-    #         if file not in list(older_database.keys()):
-    #             new_files.append(file)
 
     #Serializamos el database
 

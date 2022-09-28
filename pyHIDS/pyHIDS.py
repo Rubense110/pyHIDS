@@ -84,6 +84,39 @@ def compare_hash(target_file, expected_hash):
             return False
     
     return comp
+
+def search_files(motif, root_path):
+    """
+    Return a list of files.
+
+    Search fo files containing 'motif' that
+    aren't symbolic links.
+    """
+    result = []
+    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
+    w = os.walk(root_path)
+    import re
+    for (path, dirs, files) in w:
+        for f in files:
+            if re.compile(motif).search(f):
+                # if not a symbolic link
+                if not os.path.islink(os.path.join(path, f)):
+                    result.append(os.path.join(path, f))
+    return result
+
+def detectionNewFiles():
+    res = []
+    #Recogemos todos los ficheros que han sido añadidos al conjunto de ficheros global (ficheros)
+    for rules in conf.FOLDER_FILES:
+        new_files = search_files(rules[0], rules[1])
+
+    if os.path.exists(conf.BASE_PATH):
+        with open(conf.BASE_PATH,"rb") as r:
+            older_database = pickle.load(r)
+        for file in new_files:
+            if file not in list(older_database.keys()):
+                res.append(file)
+    return res
             
 
 
@@ -122,6 +155,14 @@ if __name__ == '__main__':
             error = error + 1
             log(local_time + " [error] " + \
                    file + " no existe, o no tienes el suficiente privilegio para leerlo.")
+    
+    new_files = detectionNewFiles()
+
+    if new_files:
+        for new_file in new_files:
+            message = local_time + " [warning] "  + new_file + " ha sido agregado"
+            log(message,True)
+            warning = warning + 1
 
     #Finalizamos 
     
