@@ -23,13 +23,13 @@ def log(message, display=False):
 
 def search_files(motif, root_path):
     """
-    Return a list of files.
+    Devuelve una lista de ficheros.
 
-    Search fo files containing 'motif' that
-    aren't symbolic links.
+    Busca ficheros que contengan 'motif' y que no sean accesos directos.
     """
     result = []
-    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
+    #Realiza una revisión en profundidad del contenido de la base de ficheros. 
+    # Todos estos y el contenido de las subcarpetas
     w = os.walk(root_path)
     import re
     for (path, dirs, files) in w:
@@ -40,9 +40,12 @@ def search_files(motif, root_path):
                     result.append(os.path.join(path, f))
     return result
 
+
 def detectionNewFiles():
+    """
+    Funcion para detectar los ficheros que han sido añadidos a la base datos
+    """
     res = []
-    #Recogemos todos los ficheros que han sido añadidos al conjunto de ficheros global (ficheros)
     for rules in conf.FOLDER_FILES:
         new_files = search_files(rules[0], rules[1])
 
@@ -55,6 +58,19 @@ def detectionNewFiles():
     return res
 
 
+def detectionDeletedFiles():
+    """
+    Funcion para detectar los ficheros que han sido eleminados de la base de datos
+    """
+    res = []        
+    if os.path.exists(conf.BASE_PATH):
+        with open(conf.BASE_PATH,"rb") as r:
+            older_database = pickle.load(r)
+        for file in list(older_database.keys()):
+            if not os.path.exists(file):
+                res.append(file)
+    return res
+
 def challenge():
     #Recogemos el tiempo actual
     local_time = time.strftime("[%d/%m/%y %H:%M:%S]", time.localtime())
@@ -63,8 +79,11 @@ def challenge():
     with open(conf.MOD_PATH, "rb") as f:
         modified_files = pickle.load(f)
 
-    #Recogemos el conjunto de ficheros que han sido añadidos al conjunto total de documentos (ficheros)
+    #Recogemos el conjunto de ficheros que han sido añadidos a la base de datos (ficheros)
     new_files = detectionNewFiles()
+
+    #Recogemos el conjunto de ficheros que han sido eliminados de la base de datos (ficheros)
+    deleted_files = detectionDeletedFiles()
 
     #Numeros aleatorios para la operacion de challenge
     numero1 = random.randint(0,10)
@@ -85,9 +104,14 @@ def challenge():
             print('Eres un robot!')
             globals()['humano'] = False
             
+            if deleted_files:
+                for deleted_file in deleted_files:
+                    message = local_time + " [error_auth] "  + deleted_file + " se ha intentado eliminar de la base hash"
+                    log(message,True)
+                    error_auth = error_auth + 1
             if new_files:
                 for new_file in new_files:
-                    message = local_time + " [error_auth] "  + new_file + " se ha intentado agregar a la base de datos"
+                    message = local_time + " [error_auth] "  + new_file + " se ha intentado agregar a la base hash"
                     log(message,True)
                     error_auth = error_auth + 1
             if modified_files:
@@ -105,10 +129,15 @@ def challenge():
         else:
             print("¡Eres un robot!")
             globals()['humano'] = False
-
+            
+            if deleted_files:
+                for deleted_file in deleted_files:
+                    message = local_time + " [error_auth] "  + deleted_file + " se ha intentado eliminar de la base hash"
+                    log(message,True)
+                    error_auth = error_auth + 1
             if new_files:
                 for new_file in new_files:
-                    message = local_time + " [error_auth] "  + new_file + " se ha intentado agregar a la base de datos"
+                    message = local_time + " [error_auth] "  + new_file + " se ha intentado agregar a la base hash"
                     log(message,True)
                     error_auth = error_auth + 1
             if modified_files:

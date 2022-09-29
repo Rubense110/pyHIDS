@@ -149,12 +149,13 @@ if __name__ == '__main__':
     for file in list(base.keys()):
         if os.path.exists(file):
             t = compare_hash(file, base[file])
+            #apilamos los ficheros que han sufrido cambios, ya que t devuelve true en caso de tener mismo hash
             if not t:
                 files_modified.append(file)
         else:
             error = error + 1
             log(local_time + " [error] " + \
-                   file + " no existe, o no tienes el suficiente privilegio para leerlo.")
+                   file + " no existe, o no tienes el suficiente privilegio para leerlo.", True)
     
     new_files = detectionNewFiles()
 

@@ -375,3 +375,57 @@ C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no 
 [28/09/22 13:24:02] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
 [28/09/22 13:24:02] Auth_Error(s) : 2
 [28/09/22 13:24:02] Authentication challenge Finished
+[29/09/22 13:32:09] HIDS starting.
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:32:09] Error(s) : 0
+[29/09/22 13:32:09] Warning(s) : 0
+[29/09/22 13:32:09] HIDS terminado.
+[29/09/22 13:32:33] Authentication challenge Starting
+[29/09/22 13:32:33] Auth_Error(s) : 0
+[29/09/22 13:32:33] Authentication challenge Finished
+[29/09/22 13:33:12] HIDS starting.
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:33:12] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:33:12] Error(s) : 1
+[29/09/22 13:33:12] Warning(s) : 0
+[29/09/22 13:33:12] HIDS terminado.
+[29/09/22 13:34:44] HIDS starting.
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:34:44] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:34:44] Error(s) : 1
+[29/09/22 13:34:44] Warning(s) : 0
+[29/09/22 13:34:44] HIDS terminado.
+[29/09/22 13:34:49] Authentication challenge Starting
+[29/09/22 13:34:49] Auth_Error(s) : 0
+[29/09/22 13:34:49] Authentication challenge Finished
+[29/09/22 13:37:16] HIDS starting.
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:37:16] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:37:16] Error(s) : 1
+[29/09/22 13:37:16] Warning(s) : 0
+[29/09/22 13:37:16] HIDS terminado.
+[29/09/22 13:37:20] Authentication challenge Starting
+[29/09/22 13:37:20] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado eliminar de la base hash
+[29/09/22 13:37:20] Auth_Error(s) : 1
+[29/09/22 13:37:20] Authentication challenge Finished
