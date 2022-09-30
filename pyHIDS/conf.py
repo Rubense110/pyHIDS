@@ -11,4 +11,4 @@ SPECIFIC_FILES_TO_SCAN = [os.path.join(PATH,"decisiones.txt")]
 FOLDER_FILES = [(".*",os.path.join(PATH,"ficheros"))]
 
 #Donde almacenar el log
-LOGS = os.path.join(PATH,"logs", "log")
+LOGS = os.path.join(PATH,"logs", "log.txt")

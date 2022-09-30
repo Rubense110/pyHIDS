@@ -1,0 +1,11 @@
+[30/09/22 18:10:45] HIDS starting.
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[30/09/22 18:10:45] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[30/09/22 18:10:45] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[30/09/22 18:10:45] Error(s) : 1
+[30/09/22 18:10:45] Warning(s) : 0
+[30/09/22 18:10:45] HIDS terminado.

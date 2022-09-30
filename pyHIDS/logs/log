@@ -1,293 +1,293 @@
 [23/09/22 17:14:15] HIDS starting.
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:14:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:14:15] Error(s) : 0
 [23/09/22 17:14:15] Warning(s) : 0
 [23/09/22 17:14:15] HIDS terminado.
 [23/09/22 17:14:47] HIDS starting.
-[23/09/22 17:14:47] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ha sido modificado.
-[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:14:47] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ha sido modificado.
+[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:14:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:14:47] Error(s) : 0
 [23/09/22 17:14:47] Warning(s) : 1
 [23/09/22 17:14:47] HIDS terminado.
 [23/09/22 17:15:28] HIDS starting.
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:15:28] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:15:28] Error(s) : 0
 [23/09/22 17:15:28] Warning(s) : 0
 [23/09/22 17:15:28] HIDS terminado.
 [23/09/22 17:33:21] HIDS starting.
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:33:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:33:21] Error(s) : 0
 [23/09/22 17:33:21] Warning(s) : 0
 [23/09/22 17:33:21] HIDS terminado.
 [23/09/22 17:34:47] HIDS starting.
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:34:47] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:34:47] Error(s) : 0
 [23/09/22 17:34:47] Warning(s) : 0
 [23/09/22 17:34:47] HIDS terminado.
 [23/09/22 17:37:48] HIDS starting.
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:37:48] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:37:48] Error(s) : 0
 [23/09/22 17:37:48] Warning(s) : 0
 [23/09/22 17:37:48] HIDS terminado.
 [23/09/22 17:38:23] HIDS starting.
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:38:23] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:38:23] Error(s) : 0
 [23/09/22 17:38:23] Warning(s) : 0
 [23/09/22 17:38:23] HIDS terminado.
 [23/09/22 17:45:24] HIDS starting.
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:45:24] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:45:24] Error(s) : 0
 [23/09/22 17:45:24] Warning(s) : 0
 [23/09/22 17:45:24] HIDS terminado.
 [23/09/22 17:46:44] HIDS starting.
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:46:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:46:44] Error(s) : 0
 [23/09/22 17:46:44] Warning(s) : 0
 [23/09/22 17:46:44] HIDS terminado.
 [23/09/22 17:47:38] HIDS starting.
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:47:38] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:47:38] Error(s) : 0
 [23/09/22 17:47:38] Warning(s) : 0
 [23/09/22 17:47:38] HIDS terminado.
 [23/09/22 17:48:08] HIDS starting.
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:48:08] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:48:08] Error(s) : 0
 [23/09/22 17:48:08] Warning(s) : 0
 [23/09/22 17:48:08] HIDS terminado.
 [23/09/22 17:52:15] HIDS starting.
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no existe. O no tienes el suficiente privilegio para leerla .
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no existe. O no tienes el suficiente privilegio para leerla .
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:52:15] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:52:15] Error(s) : 1
 [23/09/22 17:52:15] Warning(s) : 0
 [23/09/22 17:52:15] HIDS terminado.
 [23/09/22 17:58:06] HIDS starting.
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
-[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\decisiones.txt ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo1.txt ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Archivo2.txt ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\Icaro.doc ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\binarios\fakeSMTP-2.0.jar ok
+[23/09/22 17:58:06] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\pruebas\pruebaBd\ficheros\imagenes\imagen-perfil.jpeg ok
 [23/09/22 17:58:06] Error(s) : 0
 [23/09/22 17:58:06] Warning(s) : 0
 [23/09/22 17:58:06] HIDS terminado.
 [26/09/22 09:08:46] HIDS starting.
-[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 09:08:46] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 09:08:46] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 09:08:46] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 09:08:46] Error(s) : 0
 [26/09/22 09:08:46] Warning(s) : 1
 [26/09/22 09:08:46] HIDS terminado.
 [26/09/22 09:09:55] HIDS starting.
-[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 09:09:55] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 09:09:55] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 09:09:55] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 09:09:55] Error(s) : 0
 [26/09/22 09:09:55] Warning(s) : 1
 [26/09/22 09:09:55] HIDS terminado.
 [26/09/22 10:21:31] HIDS starting.
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 10:21:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 10:21:31] Error(s) : 0
 [26/09/22 10:21:31] Warning(s) : 0
 [26/09/22 10:21:31] HIDS terminado.
 [26/09/22 18:11:43] HIDS starting.
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:11:43] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:12:40] HIDS starting.
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:12:40] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:13:10] HIDS starting.
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:13:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:13:10] Error(s) : 0
 [26/09/22 18:13:10] Warning(s) : 0
 [26/09/22 18:13:10] HIDS terminado.
 [26/09/22 18:41:21] HIDS starting.
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:41:21] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:41:21] Error(s) : 0
 [26/09/22 18:41:21] Warning(s) : 0
 [26/09/22 18:41:21] HIDS terminado.
 [26/09/22 18:44:03] HIDS starting.
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:44:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:44:03] Error(s) : 0
 [26/09/22 18:44:03] Warning(s) : 0
 [26/09/22 18:44:03] HIDS terminado.
 [26/09/22 18:46:32] HIDS starting.
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:46:32] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:46:32] Error(s) : 0
 [26/09/22 18:46:32] Warning(s) : 0
 [26/09/22 18:46:32] HIDS terminado.
 [26/09/22 18:49:30] HIDS starting.
-[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:49:31] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:49:30] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:49:31] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:49:30] Error(s) : 0
 [26/09/22 18:49:30] Warning(s) : 0
 [26/09/22 18:49:30] HIDS terminado.
 [26/09/22 18:50:37] HIDS starting.
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:50:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:50:37] Error(s) : 0
 [26/09/22 18:50:37] Warning(s) : 0
 [26/09/22 18:50:37] HIDS terminado.
 [26/09/22 18:54:11] HIDS starting.
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:54:11] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:54:11] Error(s) : 0
 [26/09/22 18:54:11] Warning(s) : 0
 [26/09/22 18:54:11] HIDS terminado.
 [26/09/22 18:55:10] HIDS starting.
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 18:55:10] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 18:55:10] Error(s) : 0
 [26/09/22 18:55:10] Warning(s) : 0
 [26/09/22 18:55:10] HIDS terminado.
 [26/09/22 18:55:15] Error(s) : 0
 [26/09/22 18:55:15] Fin Authentication challenge.
 [26/09/22 19:04:50] HIDS starting.
-[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 19:04:50] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
-[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 19:04:50] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
+[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 19:04:50] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 19:04:50] Error(s) : 0
 [26/09/22 19:04:50] Warning(s) : 1
 [26/09/22 19:04:50] HIDS terminado.
 [26/09/22 19:05:00] Auth_Error(s) : 0
 [26/09/22 19:05:00] Fin Authentication challenge.
 [26/09/22 19:05:33] HIDS starting.
-[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[26/09/22 19:05:33] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
-[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[26/09/22 19:05:33] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
+[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[26/09/22 19:05:33] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [26/09/22 19:05:33] Error(s) : 0
 [26/09/22 19:05:33] Warning(s) : 1
 [26/09/22 19:05:33] HIDS terminado.
-[26/09/22 19:05:45] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt se ha intentado modificar
+[26/09/22 19:05:45] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt se ha intentado modificar
 [26/09/22 19:05:45] Auth_Error(s) : 1
 [26/09/22 19:05:45] Fin Authentication challenge.
 [27/09/22 11:12:37] HIDS starting.
-[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[27/09/22 11:12:37] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
-[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[27/09/22 11:12:37] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ha sido modificado.
+[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[27/09/22 11:12:37] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [27/09/22 11:12:37] Error(s) : 0
 [27/09/22 11:12:37] Warning(s) : 1
 [27/09/22 11:12:37] HIDS terminado.
@@ -295,12 +295,12 @@ C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no 
 [27/09/22 11:12:53] Auth_Error(s) : 0
 [27/09/22 11:12:53] Authentication challenge Finished
 [27/09/22 11:13:13] HIDS starting.
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[27/09/22 11:13:13] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [27/09/22 11:13:13] Error(s) : 0
 [27/09/22 11:13:13] Warning(s) : 0
 [27/09/22 11:13:13] HIDS terminado.
@@ -308,81 +308,81 @@ C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no 
 [27/09/22 11:13:17] Auth_Error(s) : 0
 [27/09/22 11:13:17] Authentication challenge Finished
 [28/09/22 13:05:03] HIDS starting.
-[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[28/09/22 13:05:03] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[28/09/22 13:05:03] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[28/09/22 13:05:03] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [28/09/22 13:05:03] Error(s) : 0
 [28/09/22 13:05:03] Warning(s) : 1
 [28/09/22 13:05:03] HIDS terminado.
 [28/09/22 13:05:20] Authentication challenge Starting
-[28/09/22 13:05:20] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado aÃ±adir a la base de datos
-[28/09/22 13:05:20] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
+[28/09/22 13:05:20] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado aÃ±adir a la base de datos
+[28/09/22 13:05:20] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
 [28/09/22 13:05:20] Auth_Error(s) : 2
 [28/09/22 13:05:20] Authentication challenge Finished
 [28/09/22 13:07:19] HIDS starting.
-[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[28/09/22 13:07:19] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[28/09/22 13:07:19] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[28/09/22 13:07:19] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [28/09/22 13:07:19] Error(s) : 0
 [28/09/22 13:07:19] Warning(s) : 1
 [28/09/22 13:07:19] HIDS terminado.
 [28/09/22 13:19:44] HIDS starting.
-[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[28/09/22 13:19:44] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
-[28/09/22 13:19:44] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido aÃ±adida a ficheros
+[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[28/09/22 13:19:44] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[28/09/22 13:19:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[28/09/22 13:19:44] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido aÃ±adida a ficheros
 [28/09/22 13:19:44] Error(s) : 0
 [28/09/22 13:19:44] Warning(s) : 2
 [28/09/22 13:19:44] HIDS terminado.
 [28/09/22 13:22:04] HIDS starting.
-[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[28/09/22 13:22:04] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
-[28/09/22 13:22:04] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido agregado
+[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[28/09/22 13:22:04] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[28/09/22 13:22:04] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[28/09/22 13:22:04] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido agregado
 [28/09/22 13:22:04] Error(s) : 0
 [28/09/22 13:22:04] Warning(s) : 2
 [28/09/22 13:22:04] HIDS terminado.
 [28/09/22 13:22:12] Authentication challenge Starting
-[28/09/22 13:22:12] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado aÃ±adir a la base de datos
-[28/09/22 13:22:12] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
+[28/09/22 13:22:12] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado aÃ±adir a la base de datos
+[28/09/22 13:22:12] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
 [28/09/22 13:22:12] Auth_Error(s) : 2
 [28/09/22 13:22:12] Authentication challenge Finished
 [28/09/22 13:23:54] HIDS starting.
-[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[28/09/22 13:23:54] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
-[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
-[28/09/22 13:23:54] [warning] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido agregado
+[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[28/09/22 13:23:54] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ha sido modificado.
+[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[28/09/22 13:23:54] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[28/09/22 13:23:54] [warning] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ha sido agregado
 [28/09/22 13:23:54] Error(s) : 0
 [28/09/22 13:23:54] Warning(s) : 2
 [28/09/22 13:23:54] HIDS terminado.
 [28/09/22 13:24:02] Authentication challenge Starting
-[28/09/22 13:24:02] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado agregar a la base de datos
-[28/09/22 13:24:02] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
+[28/09/22 13:24:02] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado agregar a la base de datos
+[28/09/22 13:24:02] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt se ha intentado modificar
 [28/09/22 13:24:02] Auth_Error(s) : 2
 [28/09/22 13:24:02] Authentication challenge Finished
 [29/09/22 13:32:09] HIDS starting.
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:32:09] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [29/09/22 13:32:09] Error(s) : 0
 [29/09/22 13:32:09] Warning(s) : 0
 [29/09/22 13:32:09] HIDS terminado.
@@ -390,24 +390,24 @@ C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no 
 [29/09/22 13:32:33] Auth_Error(s) : 0
 [29/09/22 13:32:33] Authentication challenge Finished
 [29/09/22 13:33:12] HIDS starting.
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[29/09/22 13:33:12] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:33:12] [error] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:33:12] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [29/09/22 13:33:12] Error(s) : 1
 [29/09/22 13:33:12] Warning(s) : 0
 [29/09/22 13:33:12] HIDS terminado.
 [29/09/22 13:34:44] HIDS starting.
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[29/09/22 13:34:44] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:34:44] [error] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:34:44] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [29/09/22 13:34:44] Error(s) : 1
 [29/09/22 13:34:44] Warning(s) : 0
 [29/09/22 13:34:44] HIDS terminado.
@@ -415,17 +415,17 @@ C:\Users\PauPC\Documents\4ºCurso ING\SSII\pruebas\pruebaBd\ficheros\corr.txt no 
 [29/09/22 13:34:49] Auth_Error(s) : 0
 [29/09/22 13:34:49] Authentication challenge Finished
 [29/09/22 13:37:16] HIDS starting.
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
-[29/09/22 13:37:16] [error] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
-[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\decisiones.txt ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo1.txt ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo2.txt ok
+[29/09/22 13:37:16] [error] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt no existe, o no tienes el suficiente privilegio para leerlo.
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Icaro.doc ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\binarios\fakeSMTP-2.0.jar ok
+[29/09/22 13:37:16] [notice] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\imagenes\imagen-perfil.jpeg ok
 [29/09/22 13:37:16] Error(s) : 1
 [29/09/22 13:37:16] Warning(s) : 0
 [29/09/22 13:37:16] HIDS terminado.
 [29/09/22 13:37:20] Authentication challenge Starting
-[29/09/22 13:37:20] [error_auth] C:\Users\PauPC\Documents\4ºCurso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado eliminar de la base hash
+[29/09/22 13:37:20] [error_auth] C:\Users\PauPC\Documents\4ï¿½Curso ING\SSII\PAI1\HIDS\pyHIDS\ficheros\Archivo3.txt se ha intentado eliminar de la base hash
 [29/09/22 13:37:20] Auth_Error(s) : 1
 [29/09/22 13:37:20] Authentication challenge Finished
