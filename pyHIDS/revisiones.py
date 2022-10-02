@@ -67,7 +67,7 @@ def craftea_pdf(fecha,accesos,errores,warnings):
     pdf.add_page()
     
     pdf.set_font('Arial', 'B', 40)
-    pdf.cell(200, 10, txt = "HIDS",ln = 1, align = 'C')
+    pdf.cell(200, 10, txt = "HIDS INSEGUS",ln = 1, align = 'C')
     pdf.set_font('Arial', 'B', 16)
     pdf.cell(200, 10, txt = "Reporte "+fecha+"\n\n" ,ln = 1, align = 'C')
     pdf.image(os.path.join(PATH,"revisiones","graficos","grafico"+fecha.replace("/","-")+".png"),20,40, h=100,w=180)
