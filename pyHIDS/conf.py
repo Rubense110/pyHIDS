@@ -3,8 +3,8 @@
 import os
 
 PATH = os.path.abspath(".")
-BASE_PATH = os.path.join(PATH,"base","database.pickle")
-MOD_PATH = os.path.join(PATH,"base","files_mod.pickle")
+BASE_PATH = os.path.join(PATH,"base_hash","database.pickle")
+MOD_PATH = os.path.join(PATH,"base_hash","files_mod.pickle")
 
 #Archivos especificos a escanear
 SPECIFIC_FILES_TO_SCAN = [os.path.join(PATH,"conf.py"),os.path.join(PATH,"genBD.py"),
@@ -13,7 +13,7 @@ SPECIFIC_FILES_TO_SCAN = [os.path.join(PATH,"conf.py"),os.path.join(PATH,"genBD.
                         os.path.join(PATH,"lanzador.exe"),os.path.join(PATH,"revisiones.exe"),os.path.join(PATH,"pyHIDS.py")]
 
 #Carpetas y patrón
-FOLDER_FILES = [(".*",os.path.join(PATH,"ficheros"))]
+FOLDER_FILES = [(".*",os.path.join(PATH,"base_datos"))]
 
 #Dónde almacenar el log
 LOGS = os.path.join(PATH,"logs", "log.txt")
