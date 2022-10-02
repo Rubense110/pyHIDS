@@ -22,12 +22,10 @@ def load_base():
     return database
 
 #Escritura en log
-
 def log(message, display=False):
     """
     Devuelve por consola y escribe el log en el log file.
     """
-    
     if display:
         print(message)
     try:
@@ -40,7 +38,7 @@ def compare_hash(target_file, expected_hash):
     Comparamos 2 valores hash.
 
     Comparamos el hash del fichero seleccionado y el hash que esperamos obtener,
-    el que hemos almacenado en la base de datos.
+    que es el que hemos almacenado en la base de datos.
     """
     sha256_hash = hashlib.sha256()
     opened_file = None
@@ -67,7 +65,7 @@ def compare_hash(target_file, expected_hash):
         if opened_file is not None:
             opened_file.close()
 
-    # comenzazmos con la comparación de hashs
+    # comenzamos con la comparación de hashes
     if opened_file is not None:
         sha256_hash.update(data)
         hashed_data = sha256_hash.hexdigest()

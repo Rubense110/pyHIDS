@@ -43,12 +43,12 @@ def revision_periodica():
 def craftea_grafico(accesos,errores,warnings,fecha):
     accesos_normales= accesos-(errores+warnings)
     valores = [accesos_normales]
-    legend = ["accesos sin incidencia"]
+    legend = ["Accesos sin incidencia"]
     etiquetas=[str(accesos_normales)]
     explode=[0]
 
-    if(errores!=0):valores.append(errores);legend.append("errores de autenticacion");explode.append(0.2);etiquetas.append(str(errores))
-    if(warnings!=0):valores.append(warnings);legend.append("warnings");explode.append(0.2);etiquetas.append(str(warnings))
+    if(errores!=0):valores.append(errores);legend.append("Errores de autenticacion");explode.append(0.2);etiquetas.append(str(errores))
+    if(warnings!=0):valores.append(warnings);legend.append("Warnings");explode.append(0.2);etiquetas.append(str(warnings))
 
     etiquetas = tuple(etiquetas)
     f1={"family": "arial","color": "black", "size": 20, "fontweight": "roman"}

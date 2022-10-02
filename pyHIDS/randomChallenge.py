@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from copyreg import pickle
 import random
 import time
 import pickle
@@ -58,7 +57,7 @@ def challenge():
     #Recogemos el tiempo actual
     local_time = time.strftime("[%d/%m/%y %H:%M:%S]", time.localtime())
 
-    #Abrimos el fichero donde almacenamos la lista de files que han sido modificados en la ultima revison.
+    #Abrimos el fichero donde almacenamos la lista de files que han sido modificados en la última revisión.
     if os.path.exists(conf.MOD_PATH):
         with open(conf.MOD_PATH, "rb") as f:
             modified_files = pickle.load(f)
@@ -69,15 +68,15 @@ def challenge():
     #Recogemos el conjunto de ficheros que han sido eliminados de la base de datos (ficheros)
     deleted_files = detectionDeletedFiles()
 
-    #Numeros aleatorios para la operacion de challenge
+    #Números aleatorios para la operación de challenge
     numero1 = random.randint(0,10)
     numero2 = random.randint(0,10)
-    #Error de autentificacion
+    #Error de autentificación
     error_auth = 0
-    #Numero random para establecer la probabilidad de operacion
+    #Número random para establecer la probabilidad de operación
     x = random.random()
 
-    log(local_time + " Authentication challenge Starting")
+    log(local_time + " Authentication Challenge Starting")
     if x>0.5:
         res = numero1+numero2
         resP = int(input("Resuelve "+ str(numero1) +" + "+str(numero2)+": "))
@@ -129,7 +128,7 @@ def challenge():
                     error_auth = error_auth + 1
 
     log(local_time + " Auth_Error(s) : " + str(error_auth))
-    log(local_time + " Authentication challenge Finished")
+    log(local_time + " Authentication Challenge Finished")
 
 if __name__ == "__main__":
 

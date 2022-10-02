@@ -3,8 +3,8 @@ import random
 
 import conf
 
-i = 1
-while i<900:
+i = 0
+while i<10000:
     x = random.random()
 
     if x>0.5:

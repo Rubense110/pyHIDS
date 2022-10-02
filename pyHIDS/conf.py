@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-from copyreg import pickle
 import os
-import pickle
 
 PATH = os.path.abspath(".")
 BASE_PATH = os.path.join(PATH,"base","database.pickle")
@@ -17,14 +15,14 @@ SPECIFIC_FILES_TO_SCAN = [os.path.join(PATH,"conf.py"),os.path.join(PATH,"genBD.
 #Carpetas y patrón
 FOLDER_FILES = [(".*",os.path.join(PATH,"ficheros"))]
 
-#Donde almacenar el log
+#Dónde almacenar el log
 LOGS = os.path.join(PATH,"logs", "log.txt")
 
-#Tarea TaskScheduler (windows) Revision
+#Tarea TaskScheduler (Windows) Revisión
 TASKSC = "SCHTASKS /CREATE /SC DAILY /TN HIDS\RevisionTask /TR " +os.path.join(PATH,"pyHIDS.exe")+" /ST "
 TASKRESUMW = "SCHTASKS /CREATE /SC MONTHLY /D 1 /TN HIDS\ResumenTask /TR " +os.path.join(PATH,"revisiones.exe")+" /ST 00:00"
 
-#Tarea CromTab
+#Tarea CromTab (Linux) Revisión
 TASKCR = "crontab -e 0 11 * * * "+os.path.join(PATH,"pyHIDS.py")
 TASKRESUML= "crontab -e 0 0 1 * * "+os.path.join(PATH,"revisiones.py")
 

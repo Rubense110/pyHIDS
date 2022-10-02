@@ -5,6 +5,7 @@ import random
 import time
 
 import conf
+
 def salida():
     try:
         exit(0)
@@ -39,7 +40,7 @@ if __name__ == '__main__':
             case = int(input("Debe escoger entre [1 | 2 | 3], escoja opción: "))
         if case==1:
             print("Se realizan revisiones diarias")
-            horaDia = input("Establecer hora de revision: ")
+            horaDia = input("Establecer hora de revisión: ")
             sistemaop = os.name
             #Windows
             if sistemaop=="nt":
@@ -47,12 +48,11 @@ if __name__ == '__main__':
             #Linux
             else:
                 os.system(conf.TASKCR)
-            
             salida()
         else:
             salida()
             
-    #Si la base de hash no existe no tiene sentido realizar una revision
+    #Si la base de hash no existe no tiene sentido realizar una revisión
     else:
 
         print("\nOpción 1: Establecer periodo de revisión")
@@ -66,7 +66,7 @@ if __name__ == '__main__':
             
         if case==1:
             print("Se realizan revisiones diarias")
-            horaDia = input("Establecer hora de revision: ")
+            horaDia = input("Establecer hora de revisión: ")
             sistemaop = os.name
             #Windows
             if sistemaop=="nt":
@@ -74,7 +74,6 @@ if __name__ == '__main__':
             #Linux
             else:
                 os.system(conf.TASKCR)
-            
             salida()
         elif case==2:
             print("Realizando revisión...")
@@ -89,7 +88,7 @@ if __name__ == '__main__':
 
             if case2 == "y":
 
-                case3 = input("Si algún fichero ha sufrido una modificación en su integridad podrían estar en peligro"+ \
+                case3 = input("Si algún fichero ha sufrido una modificación de su integridad podrían estar en peligro"+ \
                                     "\nla información almacenada en ellos, ¿está seguro de actualizar la base de datos? [y/n]: ")                  
                 if case3=="y":
                     x = random.random()

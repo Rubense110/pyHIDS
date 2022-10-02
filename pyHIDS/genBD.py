@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
+
 from importlib.metadata import files
 import pickle
 import os
 import hashlib
 
-
 import conf
-
 
 
 def search_files(motif, root_path):
@@ -17,7 +16,7 @@ def search_files(motif, root_path):
     como extension 'motif' y que no sean accesos directos.
     """
     result = []
-    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
+    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas.
     w = os.walk(root_path)
     import re
     for (path, dirs, files) in w:
@@ -31,13 +30,12 @@ def search_files(motif, root_path):
 
 def hash_file(target_file):
     """
-    Hace el hash del fichero en concreto.
+    Hace el hash del fichero dado.
     """
     sha256_hash = hashlib.sha256()
     opened_file = None
     hashed_data = None
     data = None
-
     # Posibles errores al abrir el log
     try:
         opened_file = open(target_file, "rb")
