@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-from base64 import encode
 from email import encoders
-from email.message import EmailMessage
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -11,6 +9,7 @@ import conf
 from fpdf import FPDF
 import os
 import matplotlib.pyplot as plt
+import sys
 
 
 PATH = os.path.abspath(".")
@@ -23,11 +22,14 @@ def revision_periodica():
     e= False
 
     file = open(conf.LOGS, "r").readlines()
-
-    with open(conf.LOGS, 'r') as f:
-        ultimalinea = f.readlines()[-1]
-        fecha=ultimalinea.split(" ")[0].split("/",1)[1]
-
+    try:
+        with open(conf.LOGS, 'r') as f:
+            ultimalinea = f.readlines()[-1]
+            fecha=ultimalinea.split(" ")[0].split("/",1)[1]
+    except:
+        print("El log está vacío o tiene algún problema")
+        sys.exit()
+    
     for line in reversed(file):
         if fecha in line : 
             accesos+=1
@@ -38,7 +40,10 @@ def revision_periodica():
 
     craftea_grafico(accesos,errores,warnings,fecha)
     craftea_pdf(fecha,str(accesos),str(errores),str(warnings))
-    craftea_email(fecha)
+    try:
+        craftea_email(fecha)
+    except:
+        print("ha ocurrido un problema enviando el email")
 
 def craftea_grafico(accesos,errores,warnings,fecha):
     accesos_normales= accesos-(errores+warnings)
