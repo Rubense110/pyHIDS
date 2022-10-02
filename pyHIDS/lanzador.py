@@ -79,11 +79,15 @@ if __name__ == '__main__':
             print("Realizando revisión...")
 
             try:
+                inicio= time.time()
                 exec(open(os.path.join(conf.PATH,"pyHIDS.py")).read())
+
             except Exception as e:
                 print(e)
             
             print(""+"\nRevisión finalizada")
+            fin = time.time()
+            print("tiempo de ejecucion: ",fin-inicio,"segundos")
             case2 = input("¿Desea actualizar la base de datos existente? [y/n]: ")
 
             if case2 == "y":
@@ -99,13 +103,9 @@ if __name__ == '__main__':
                         exec(open(os.path.join(conf.PATH,"randomChallenge.py")).read())
                     else:  
                         exec(open(os.path.join(conf.PATH,"genBD.py")).read())
-                    time.sleep(5)
                 else:
-                    time.sleep(3)
                     salida()
             else:
-                time.sleep(3)
                 salida()
         elif case==3:
-            time.sleep(3)
             salida()
