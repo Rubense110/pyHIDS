@@ -5,7 +5,11 @@ import random
 import time
 
 import conf
-
+def salida():
+    try:
+        exit(0)
+    except:
+        print("Saliendo...")
 
 if __name__ == '__main__':
     print("Bienvenido al entorno de configuración de HIDS INSEGUS")
@@ -44,10 +48,9 @@ if __name__ == '__main__':
             else:
                 os.system(conf.TASKCR)
             
-            exit(0)
+            salida()
         else:
-            print("Saliendo..")
-            exit(0)
+            salida()
             
     #Si la base de hash no existe no tiene sentido realizar una revision
     else:
@@ -72,7 +75,7 @@ if __name__ == '__main__':
             else:
                 os.system(conf.TASKCR)
             
-            exit(0)
+            salida()
         elif case==2:
             print("Realizando revisión...")
 
@@ -99,14 +102,11 @@ if __name__ == '__main__':
                         exec(open(os.path.join(conf.PATH,"genBD.py")).read())
                     time.sleep(5)
                 else:
-                    print("Saliendo..")
                     time.sleep(3)
-                    exit(0)
+                    salida()
             else:
-                print("Saliendo..")
                 time.sleep(3)
-                exit(0)
+                salida()
         elif case==3:
-            print("Saliendo..")
             time.sleep(3)
-            exit(0)
+            salida()
