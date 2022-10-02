@@ -1,0 +1,2 @@
+1.- Esta carpeta existe para almacenar la base de datos con las rutas de ficheros y el hash asociado al contenido de estos.
+2.- Dado que GitHub no permite subir carpetas vacías, este documento permite que no se borre la carpeta y se pueda almacenar la base de datos.
