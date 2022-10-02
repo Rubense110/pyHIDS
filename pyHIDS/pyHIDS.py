@@ -4,6 +4,7 @@ import hashlib
 import os
 
 import conf
+import genBD
 
 
 #Carga de la base de datos
@@ -85,30 +86,12 @@ def compare_hash(target_file, expected_hash):
     
     return comp
 
-def search_files(motif, root_path):
-    """
-    Return a list of files.
-
-    Search fo files containing 'motif' that
-    aren't symbolic links.
-    """
-    result = []
-    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
-    w = os.walk(root_path)
-    import re
-    for (path, dirs, files) in w:
-        for f in files:
-            if re.compile(motif).search(f):
-                # if not a symbolic link
-                if not os.path.islink(os.path.join(path, f)):
-                    result.append(os.path.join(path, f))
-    return result
 
 def detectionNewFiles():
     res = []
     #Recogemos todos los ficheros que han sido añadidos al conjunto de ficheros global (ficheros)
     for rules in conf.FOLDER_FILES:
-        new_files = search_files(rules[0], rules[1])
+        new_files = genBD.search_files(rules[0], rules[1])
 
     if os.path.exists(conf.BASE_PATH):
         with open(conf.BASE_PATH,"rb") as r:
@@ -169,10 +152,10 @@ if __name__ == '__main__':
     
     log(local_time + " Error(s) : " + str(error))
     log(local_time + " Warning(s) : " + str(warning))
-    log(local_time + " HIDS terminado.")
+    log(local_time + " HIDS finished.")
 
     if log_file is not None:
         log_file.close()
-    
-    with open(conf.MOD_PATH,"wb") as f:
-        pickle.dump(files_modified,f)
+    if files_modified:
+        with open(conf.MOD_PATH,"wb") as f:
+            pickle.dump(files_modified,f)

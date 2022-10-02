@@ -5,7 +5,7 @@ import pickle
 import os
 
 import conf
-
+import genBD
 
 
 
@@ -21,25 +21,6 @@ def log(message, display=False):
     except Exception as e:
         print(e)
 
-def search_files(motif, root_path):
-    """
-    Devuelve una lista de ficheros.
-
-    Busca ficheros que contengan 'motif' y que no sean accesos directos.
-    """
-    result = []
-    #Realiza una revisión en profundidad del contenido de la base de ficheros. 
-    # Todos estos y el contenido de las subcarpetas
-    w = os.walk(root_path)
-    import re
-    for (path, dirs, files) in w:
-        for f in files:
-            if re.compile(motif).search(f):
-                # if not a symbolic link
-                if not os.path.islink(os.path.join(path, f)):
-                    result.append(os.path.join(path, f))
-    return result
-
 
 def detectionNewFiles():
     """
@@ -47,7 +28,7 @@ def detectionNewFiles():
     """
     res = []
     for rules in conf.FOLDER_FILES:
-        new_files = search_files(rules[0], rules[1])
+        new_files = genBD.search_files(rules[0], rules[1])
 
     if os.path.exists(conf.BASE_PATH):
         with open(conf.BASE_PATH,"rb") as r:
@@ -102,7 +83,6 @@ def challenge():
             exec(open(os.path.join(conf.PATH,"genBD.py")).read())
         else:
             print('Eres un robot!')
-            globals()['humano'] = False
             
             if deleted_files:
                 for deleted_file in deleted_files:
@@ -124,11 +104,10 @@ def challenge():
         res = numero1-numero2
         resP = int(input("Resuelve "+ str(numero1) +" - "+str(numero2)+": "))
         if res==resP:
-            print("¡Eres humano!")
+            print("Eres humano!")
             exec(open(os.path.join(conf.PATH,"genBD.py")).read())
         else:
-            print("¡Eres un robot!")
-            globals()['humano'] = False
+            print("Eres un robot!")
             
             if deleted_files:
                 for deleted_file in deleted_files:
@@ -151,7 +130,6 @@ def challenge():
 
 if __name__ == "__main__":
 
-    humano = True 
     log_file = None
     try:
         log_file = open(conf.LOGS, "a")

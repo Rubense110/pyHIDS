@@ -62,8 +62,6 @@ def hash_file(target_file):
 
 if __name__ == '__main__':
     database = {}
-    older_database = {}
-    new_files = []
     list_of_files = conf.SPECIFIC_FILES_TO_SCAN
 
     for rules in conf.FOLDER_FILES:
