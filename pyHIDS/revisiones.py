@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from base64 import encode
 from email import encoders
 from email.message import EmailMessage

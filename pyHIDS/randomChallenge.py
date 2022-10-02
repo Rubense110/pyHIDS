@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from copyreg import pickle
 import random
 import time
@@ -57,8 +59,9 @@ def challenge():
     local_time = time.strftime("[%d/%m/%y %H:%M:%S]", time.localtime())
 
     #Abrimos el fichero donde almacenamos la lista de files que han sido modificados en la ultima revison.
-    with open(conf.MOD_PATH, "rb") as f:
-        modified_files = pickle.load(f)
+    if os.path.exists(conf.MOD_PATH):
+        with open(conf.MOD_PATH, "rb") as f:
+            modified_files = pickle.load(f)
 
     #Recogemos el conjunto de ficheros que han sido añadidos a la base de datos (ficheros)
     new_files = detectionNewFiles()

@@ -1,10 +1,11 @@
+#!/usr/bin/env python3
+
 import pickle
 import time
 import hashlib
 import os
 
 import conf
-import genBD
 
 
 #Carga de la base de datos
@@ -86,12 +87,31 @@ def compare_hash(target_file, expected_hash):
     
     return comp
 
+def search_files(motif, root_path):
+    """
+    Devuelve una lista de ficheros.
+
+    Busca todos los ficheros que contengan
+    como extension 'motif' y que no sean accesos directos.
+    """
+    result = []
+    #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
+    w = os.walk(root_path)
+    import re
+    for (path, dirs, files) in w:
+        for f in files:
+            if re.compile(motif).search(f):
+                # if not a symbolic link
+                if not os.path.islink(os.path.join(path, f)):
+                    result.append(os.path.join(path, f))
+    return result
+
 
 def detectionNewFiles():
     res = []
     #Recogemos todos los ficheros que han sido añadidos al conjunto de ficheros global (ficheros)
     for rules in conf.FOLDER_FILES:
-        new_files = genBD.search_files(rules[0], rules[1])
+        new_files = search_files(rules[0], rules[1])
 
     if os.path.exists(conf.BASE_PATH):
         with open(conf.BASE_PATH,"rb") as r:

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 import random
 import time
@@ -73,11 +75,17 @@ if __name__ == '__main__':
             exit(0)
         elif case==2:
             print("Realizando revisión...")
-            exec(open(os.path.join(conf.PATH,"pyHIDS.py")).read())
+
+            try:
+                exec(open(os.path.join(conf.PATH,"pyHIDS.py")).read())
+            except Exception as e:
+                print(e)
+            
             print(""+"\nRevisión finalizada")
-            time.sleep(5)
             case2 = input("¿Desea actualizar la base de datos existente? [y/n]: ")
+
             if case2 == "y":
+
                 case3 = input("Si algún fichero ha sufrido una modificación en su integridad podrían estar en peligro"+ \
                                     "\nla información almacenada en ellos, ¿está seguro de actualizar la base de datos? [y/n]: ")                  
                 if case3=="y":
@@ -89,12 +97,16 @@ if __name__ == '__main__':
                         exec(open(os.path.join(conf.PATH,"randomChallenge.py")).read())
                     else:  
                         exec(open(os.path.join(conf.PATH,"genBD.py")).read())
+                    time.sleep(5)
                 else:
                     print("Saliendo..")
+                    time.sleep(3)
                     exit(0)
             else:
                 print("Saliendo..")
+                time.sleep(3)
                 exit(0)
         elif case==3:
             print("Saliendo..")
+            time.sleep(3)
             exit(0)

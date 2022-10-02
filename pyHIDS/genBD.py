@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from importlib.metadata import files
 import pickle
 import os
@@ -10,10 +11,10 @@ import conf
 
 def search_files(motif, root_path):
     """
-    Return a list of files.
+    Devuelve una lista de ficheros.
 
-    Search fo files containing 'motif' that
-    aren't symbolic links.
+    Busca todos los ficheros que contengan
+    como extension 'motif' y que no sean accesos directos.
     """
     result = []
     #Realiza una revisión en profundidad del contenido de la base de ficheros. Todos estos y el contenido de las subcarpetas
@@ -30,7 +31,7 @@ def search_files(motif, root_path):
 
 def hash_file(target_file):
     """
-    Hash the file given in parameter.
+    Hace el hash del fichero en concreto.
     """
     sha256_hash = hashlib.sha256()
     opened_file = None
